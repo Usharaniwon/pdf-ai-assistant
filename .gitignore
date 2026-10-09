@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Generated vector store
+vectorstore/
+
+# Temporary files
+*.tmp
+.DS_Store
+# Uploaded or private PDF documents
+documents/
