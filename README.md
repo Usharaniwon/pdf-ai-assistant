@@ -219,6 +219,12 @@ Open the local URL shown in your terminal.
 \- Processing speed depends on available memory and hardware.
 
 
+## Application Screenshot
+
+![PDF AI Assistant running in Streamlit](app_screenshot.png)
+
+
+
 
 \## Future Improvements
 
